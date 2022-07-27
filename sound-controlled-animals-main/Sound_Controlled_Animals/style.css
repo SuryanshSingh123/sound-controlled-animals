@@ -1,0 +1,36 @@
+body {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    background: #fc03ef;
+}
+
+.header_div{
+  
+    background: rgb(0, 255, 42);
+    color: rgb(255, 196, 0);
+}
+.header_div p{
+  
+    font-family: 'Roboto', sans-serif;
+    color: #383838;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+
+    color: aliceblue;
+    font-family: 'Fascinate', cursive;
+    margin-top: 30px;
+    letter-spacing: 3px;
+    width: 130px;
+}
+.copy_right_footer{
+    background-color: aliceblue;
+    color: rgb(187, 0, 255);
+    position: fixed;
+    bottom: 0px;
+    width:100%;
+    text-shadow: 5px 5px 7px rgba(217, 255, 0, 0.984);
+text-align: center;
+line-height: 3;
+}
